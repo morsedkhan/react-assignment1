@@ -1,0 +1,16 @@
+const fakeData =  [{"id":1,"title":"Research Associate","price":"9.08","img":"https://img-a.udemycdn.com/course/240x135/648826_f0e5_4.jpg"},
+{"id":2,"title":"iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp","price":"3.23","img":"https://img-a.udemycdn.com/course/240x135/1203374_6d6f_3.jpg"},
+{"id":3,"title":"Web Design And Development","price":"7.62","img":"https://img-a.udemycdn.com/course/240x135/567828_67d0.jpg"},
+{"id":4,"title":"Cisco CCNA 200-301 – The Complete Guide to Getting Certified","price":"4.58","img":"http://dummyimage.com/189x171.bmp/5fa2dd/ffffff"},
+{"id":5,"title":"Build a Battle Royale and an RPG in Unity and Blender! html","price":"1.07","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":6,"title":"Blender Character Creator v2.0 for Video Games Design","price":"7.10","img":"https://img-a.udemycdn.com/course/240x135/1399296_e175_3.jpg"},
+{"id":7,"title":"2020 Complete Python Bootcamp: From Zero to Hero in Python","price":"2.61","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":8,"title":"Java Programming Masterclass for Software Developers","price":"1.43","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":9,"title":"Angular - The Complete Guide (2020 Edition)","price":"3.08","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":10,"title":"The Complete JavaScript Course 2020: Build Real Projects!","price":"8.99","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":11,"title":"Unity 2D Game Developer Course Farming RPG","price":"4.93","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":12,"title":"Unreal Engine C++ Developer: Learn C++ and Make Video Games","price":"0.52","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":13,"title":"Accounting Assistant I","price":"7.59","img":"http://dummyimage.com/191x180.bmp/dddddd/000000"},
+{"id":14,"title":"UX & Web Design Master Course: Strategy, Design, Developmen","price":"3.03","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"},
+{"id":15,"title":"Graphic Design Bootcamp: Photoshop, Illustrator, InDesign","price":"2.35","img":"https://img-a.udemycdn.com/course/240x135/1565838_e54e_11.jpg"}]
+export default fakeData
